@@ -1,1 +1,1 @@
-# LeetCode30DayChallenge2020
+# LeetCode 30 Day Challenge 2020
